@@ -1,3 +1,7 @@
+# Kaggle MCP Server
+# Autor: Jaime Alfredo Bonilla Perez — jaimebp@gmail.com
+# © 2026 Todos los derechos reservados
+
 import sys
 import json
 import os

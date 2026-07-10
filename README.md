@@ -2,6 +2,9 @@
 
 Servidor MCP (Model Context Protocol) para interactuar con Kaggle desde OpenCode y otros clientes compatibles con MCP.
 
+**Autor:** Jaime Alfredo Bonilla Perez — jaimebp@gmail.com  
+**© 2026 Todos los derechos reservados**
+
 ## Herramientas disponibles
 
 | Herramienta | Descripción | Auth |
@@ -118,4 +121,4 @@ kaggle-mcp-server/
 
 ## Licencia
 
-MIT
+© 2026 Jaime Alfredo Bonilla Perez. Todos los derechos reservados.
